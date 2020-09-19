@@ -2,8 +2,6 @@
 
 #### I am currently working at [TrustCheckr](https://trustcheckr.com) as a Full Stack Developer.
 
-#### I am currently learning GO.
+#### Qualified for [ACM ICPC 2018](https://icpc.global/ICPCID/QBDDRAUU92XI) Regionals in my first attempt.
 
-#### I was [ACM ICPC Regionalist 2018](https://icpc.global/ICPCID/QBDDRAUU92XI).
-
-#### Love to travel.
+#### Love to travel. Want to travel the whole world.
