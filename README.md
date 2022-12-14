@@ -3,5 +3,3 @@
 #### I am currently working at [Springworks](https://springworks.in) as a Backend Engineer.
 
 #### [ACM ICPC 2018](https://icpc.global/ICPCID/QBDDRAUU92XI) Regionalist.
-
-#### Love to travel. Want to travel the whole world.
